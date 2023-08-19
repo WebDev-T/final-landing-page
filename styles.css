@@ -1,0 +1,900 @@
+/* font-family: Hellix, I've installed for you */
+html, body{
+    margin:0;
+    height:100%;
+    width:100%;
+  }
+  .desk-block-two{
+    display:none;
+  }
+  .desk-bene{
+    display:none;
+  }
+  .desktop-header{
+    display:none;
+  }
+  .desk-b-gradient{
+    display:none;
+  }
+  .desk-four-box{
+    display:none;
+  }
+  .header{
+    font-family: Hellix;
+    display:flex;
+    height: 75px;
+    box-shadow: 0px 2px 6px 0px #0000000A;
+    box-shadow: 0px 10px 20px 0px #0000000A;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:40px;
+  }
+  .head{
+    height: 43px;
+    width: 180px;
+    color: #111235;
+    font-family: Hellix;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 43.21px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  #strong{
+    font-family: Hellix;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43px;
+    text-align: left;
+  }
+  #wo-image{
+    display:flex;
+    height: 414px;
+    width: 414px;
+    margin:0 auto;
+    margin-bottom:40px;
+  }
+  #time-come{
+    margin:0 auto;
+    height: 225px;
+    width: 382px;
+    font-family: Hellix;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+    text-align: center;
+    margin-bottom:20px;
+  }
+  #strong-2{
+    font-family: Hellix;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 75px;
+  }
+  #lorem-1{
+    font-family: Hellix;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    margin:0 auto;
+    height: 72px;
+    width: 382px;
+    color:#111235;
+    margin-bottom:30px;
+  }
+  .contact{
+    margin:0 auto;
+    height: 59px;
+    width: 252px;
+    border-radius: 35px;
+    background: #4B5092;
+    border-style:none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+    margin-bottom:120px;
+  }
+  .contact:hover{
+    opacity:80%;
+    transition: 0.3s;
+  }
+  #contact{
+    height: 22px;
+    width: 92px;
+    font-family: Hellix;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    color:#FFFFFF;
+  }
+  #wo-image-2{
+    display:flex;
+    height: 276.24px;
+    width: 414px;
+    margin:0 auto;
+    margin-bottom:29.76px;
+  }
+  .light-b{
+    height: 380px;
+    width: 100%;
+    background: #F2F8FF;
+    margin-bottom:120px;
+  }
+  #choose{
+    padding-top:50px;
+    font-family: Hellix;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 58px;
+    text-align: left;
+    height: 116px;
+    width: 382px;
+    color:#111235;
+    margin:0 auto;
+    margin-bottom:20px;
+  }
+  #for-your{
+    font-family: Hellix;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+  }
+  #lorem-2{
+    font-family: Hellix;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    height: 144px;
+    width: 382px;
+    margin:0 auto;
+  }
+  .b-gradient{
+    height: 942px;
+    width: 100%;
+    background: linear-gradient(99.85deg, #BAD5FF 0%, #6487BF 100%);
+    background:E4F0FF;
+  }
+  #alex{
+    margin:0 auto;
+    padding-top:80px;
+    color: #111235;
+    font-family: Hellix;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    text-align: center;
+    height: 58px;
+    width: 399px;
+    margin-bottom:10px;
+  }
+  #xp{  
+    font-family: Hellix;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    height: 24px;
+    width: 229px;
+    color:#111235;
+    margin:0 auto;
+    margin-bottom:30px;
+  }
+  #lorem-3{
+    font-family: Hellix;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    height: 144px;
+    width: 382px;
+    margin:0 auto;
+    margin-bottom:30px;
+  }
+  .sign{
+    margin:0 auto;
+    height: 59px;
+    width: 252px;
+    border-radius: 35px;
+    background: #FFFFFF;
+    border-style:none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+    margin-bottom:64px;
+  }
+  .sign:hover{
+    opacity:80%;
+    transition: 0.3s;
+  }
+  #sign{
+    color: #436BAA;
+    font-family: Hellix;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+    height: 22px;
+    width: 156px;
+  }
+  #wo-image-3{
+    display:flex;
+    height:441px;
+    margin:0 auto;
+  }
+  #wo-image-4{
+    display:flex;
+    height:414px;
+    width:414px;
+    margin:0 auto;
+    margin-bottom:50px;
+    padding-top:120px;
+  }
+  #of-excersize{
+    height: 117px;
+    width: 382px;
+    font-family: Hellix;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin:0 auto;
+    margin-bottom:40px;
+  }
+  #benefits{
+    font-family: Hellix;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    text-align: left;
+  }
+  .four-box{
+  }
+  .box{
+    background: #E4F0FF;
+    height: 274px;
+    width: 382px;
+    border-radius: 30px;
+    margin:0 auto;
+    margin-bottom:20px;
+  }
+  #increase{
+    height: 58px;
+    width: 203px;
+    font-family: Hellix;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    padding-top:50px;
+    margin-bottom:20px;
+    margin-left:40px;
+    color:#111235;
+  }
+  #box-lorem{
+    font-family: Hellix;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left:42px;
+    height: 96px;
+    width: 286px;
+  }
+  #increase-three{
+    height: 58px;
+    width: 234px;
+    font-family: Hellix;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    margin-left:40px;
+    padding-top:50px;
+  }
+  #increase-four{
+    height: 58px;
+    width: 137px;
+    font-family: Hellix;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    margin-left:40px;
+    padding-top:50px;
+  }
+  .get{
+    margin:0 auto;
+    height: 59px;
+    width: 252px;
+    border-radius: 35px;
+    background: #4B5092;
+    border-style:none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+    margin-bottom:86px;
+    margin-top:20px;
+  }
+  .get:hover{
+    opacity:80%;
+    transition: 0.3s;
+  }
+  #get{
+    height: 22px;
+    width: 69px;
+    font-family: Hellix;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    color:#FFFFFF;
+  }
+  footer{
+    margin:0 auto;
+    height: 800px;
+    width: 100%;
+    background:#F2F8FF;
+  }
+  .rectangle{
+    height: 1px;
+    width: 100%;
+    background: #0000004D;
+    margin-bottom:50px;
+  }
+  .head-2{
+    margin:0 auto;
+    height: 43px;
+    width: 180px;
+    color: #111235;
+    font-family: Hellix;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 43px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-bottom:50px;
+  }
+  .nav{
+    margin:0 auto;
+    height: 319px;
+    width: 95px;
+    display:flex;
+    flex-direction: column;
+    color:#111235;
+    font-family: Hellix;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom:50px;
+  }
+  #home{
+    height: 24px;
+    width: 44px;
+    margin:0 auto;
+    margin-bottom:35px;
+    cursor:pointer;
+  }
+  #about{
+    height: 24px;
+    width: 67px;
+    margin:0 auto;
+    margin-bottom:35px;
+    cursor:pointer;
+  }
+  #contact-two{
+    height: 24px;
+    width: 60px;
+    margin:0 auto;
+    margin-bottom:35px;
+    cursor:pointer;
+  }
+  #training{
+    height: 24px;
+    width: 95px;
+    margin:0 auto;
+    margin-bottom:35px;
+    cursor:pointer;
+  }
+  #price{
+    height:24px;
+    width:36px;
+    margin:0 auto;
+    margin-bottom:35px;
+    cursor:pointer;
+  }
+  #faq{
+    height:24px;
+    width:31px;
+    margin:0 auto;
+    cursor:pointer;
+  }
+  .platform{
+    height: 140px;
+    width: 255px;
+    margin:0 auto;
+    font-family: Hellix;
+  }
+  #update{
+    margin:0 auto;
+    color:#111235;
+    font-family: Hellix;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    height: 28px;
+    width: 160px;
+    margin-bottom:16px;
+  }
+  #email{
+    border-style:none;
+    font-family: Hellix;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    height: 40px;
+    width: 248px;
+    padding-left:12px;
+    padding-top:auto;
+    color:#111235;
+    background:url("https://assets.codepen.io/6060109/icon-send.png")no-repeat white;
+    background-position:95% 50%;
+    border-radius:5px;
+    margin-bottom:24px;
+  }
+  .social{
+    display:flex;
+    justify-content:space-evenly;
+    height: 32px;
+    width: 176px;
+    margin:0 auto;
+    margin-bottom:60px;
+  }
+  .circle{
+    height: 32px;
+    width: 32px;
+    background: rgba(128, 173, 245, .1);
+    border-radius:50%;
+    cursor:pointer;
+  }
+  #icon{
+    margin:7.47px;
+    height: 17.07px;
+    width: 17.07px;
+  }
+  #copyright{
+    font-family: Hellix;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align:center;
+    color:#111235;
+    height: 24px;
+    width: 200px;
+    margin: 0 auto;
+    margin-bottom:103px;
+  }
+  #desk-wo-image-4{
+     display:none;
+    }
+  .desktop{
+    display:none
+  }
+  .light-b-background{
+    background:#F2F8FF;
+    width:100%;
+    height:2082px;
+  }
+  
+  @media only screen and (min-width: 1541px) {
+    .desktop{
+      display:block;
+      height:100%;
+    }
+    #wo-image{
+      display:none;
+    }
+    .header{
+      display:none;
+    }
+    .head{
+      margin-left:0px;
+      margin-right:571px;
+    }
+    #wo-image-2{
+      display:none;
+    }
+    .light-b{
+      display:none;
+    }
+    .light-b-background{
+      display:none;
+    }
+    .b-gradient{
+      display:none;
+    }
+    .desk-light-b{
+      height: 372px;
+      width: 520px;
+      border-radius: 50px;
+      background: #F2F8FF;
+    }
+    .desktop-header{
+      margin-left:135px;
+      margin-top:27px;
+      height:43px;
+      width:269px;
+      display:flex;
+      align-items:center;
+      width:80%;
+      justify-content:space-between;
+      margin-bottom:43px;
+    }
+    #nav-content{
+      cursor:pointer;
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      text-align: left;
+    }
+    #search{
+      cursor:pointer;
+      height: 16px;
+      width: 16px;
+    }
+    .hero{
+      display:flex;
+      width:85.6%;
+      margin-left:135px;
+      flex-direction: row;
+      justify-content:space-between;
+      margin-bottom:120px;
+    }
+    footer{
+      display:none;
+    }
+    #time-come{
+      display:none
+    }
+    .desk-typo{
+      display:block;
+      width:586px;
+      margin-right:15%
+    }
+    #desk-time-come{
+      font-family: Hellix;
+      font-size: 72px;
+      font-weight: 500;
+      line-height: 75px;
+      text-align: left;
+      height: 150px;
+      width: 687px;
+      margin:0px;
+      margin-bottom:30px;
+      margin-top:113px;
+    }
+    #desk-strong-2{
+      font-family: Hellix;
+      font-size: 72px;
+      font-weight: 700;
+      line-height: 75px;
+      text-align: left;
+    }
+    #desk-lorem-1{
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      text-align: left;
+      height: 48px;
+      width: 432px;
+      margin-bottom:40px;
+    }
+    #lorem-1{
+      display:none;
+    }
+    .contact{
+      display:none;
+    }
+    .desk-contact{
+      height: 59px;
+      width: 200px;
+      border-radius: 35px;
+      background: #4B5092;
+      border-style:none;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      cursor:pointer;
+      margin-bottom:120px;
+    }
+    .desk-contact:hover{
+      opacity:80%;
+      transition: 0.3s;
+    }
+    #desk-contact{
+      color:#FFFFFF;
+    }
+    #desk-wo-image-2{
+      height: 383px;
+      width: 574px;
+    }
+    .desk-block-two{
+      display:flex;
+      margin-left:146px;
+      width:81.73%;
+      justify-content:space-between;
+      margin-bottom:66px;
+    }
+    .desk-b-gradient{
+      display:flex;
+      background: linear-gradient(99.85deg, #BAD5FF 0%, #6487BF 100%);
+      height:600px;
+    }
+    #alex{
+      text-align:left;
+      margin:0px;
+      margin-bottom:10px;
+    }
+    #xp{
+      text-align:left;
+      margin:0px;
+      margin-bottom:30px;
+    }
+    #lorem-3{
+      text-align:left;
+      margin:0px;
+      margin-bottom:40px;
+    }
+    .b-gradient-typography{
+      margin:0px;
+      display:block;
+    }
+    #desk-wo-image-3{
+      margin-left:146px;
+      margin-right:4%;
+    }
+    .sign{
+      margin:0px;
+      margin-bottom:160px;
+    }
+    .sign:hover{
+      opacity:80%;
+      transition: 0.3s;
+    }
+    .desk-bene{
+      display:flex;
+      margin-left:135px;
+      width:81.2%;
+      height:59px;
+      justify-content:space-between;
+      margin-bottom:60px;
+    }
+    #of-excersize{
+      display:none;
+    }
+    #desk-of-excersize{
+      margin:0px;
+      font-family: Hellix;
+      font-size: 48px;
+      font-weight: 500;
+      line-height: 58px;
+      text-align: left;
+    }
+    .desk-light-b-background{
+      display:block;
+      padding-top:135px;
+      background:#F2F8FF;
+      width:100%;
+      height:833px;
+    }
+    .desk-get{
+      margin:0px;
+      height: 59px;
+      width: 252px;
+      border-radius: 35px;
+      background: #4B5092;
+      border-style:none;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      cursor:pointer;
+    }
+    .get{
+      display:none;
+    }
+    .desk-get:hover{
+      opacity:80%;
+      transition: 0.3s;
+    }
+    .four-box{
+      display:none;
+    }
+    #wo-image-4{
+      display:none;
+    }
+    .box{
+      height:274px;
+      width:370px;
+      margin:0px;
+    }
+    .box.box-1{
+      margin-bottom:30px;
+      margin-right:12px;
+    }
+    #increase{
+      margin:0px;
+      margin-top:50px;
+      margin-left:40px;
+      padding:0px;
+      margin-bottom:30px;
+    }
+    .desk-boxcez{
+      display:flex;
+      width:84.25%;
+      height:578px;
+      margin-left:135px;
+      align-items:center;
+      justify-content:space-between;
+      background:#F2F8FF;
+      margin-bottom:135px;
+    }
+    .desk-four-box{
+      width:752px;
+      height:578px;
+      display:flex;
+      flex-wrap:wrap;
+    }
+    #box-lorem{
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      text-align: left;
+      margin-left:42px;
+      margin-bottom:50px;
+      height: 96px;
+      width: 286px;
+    }
+    .box.box-3{
+      margin-right:12px;
+    }
+    #desk-wo-image-4{
+      display: block;  
+      height: 425px;
+      width: 425px;
+    }
+    .rectangle{
+      height: 1px;
+      width: 84.47%;
+      background: #0000004D;
+      margin-left:135px;
+      margin-bottom:59px;
+    }
+    .footer{
+      display:block;
+      height:294px;
+      background:#F2F8FF;
+      margin:0px;
+      justify-content:space-between;
+      background:#F2F8FF;
+      justify-content:center;
+      padding-top:59px;
+    }
+    .inner-footer{
+      margin-top:59x;
+      margin-left:135px;
+      display:flex;
+      margin:0px;
+      margin-left:135px;
+      width:81.52%;
+      height:140px;
+    }
+    .footer-head-2{
+      font-family: Hellix;
+      font-size: 36px;
+      font-weight: 500;
+      line-height: 43px;
+      text-align: left;
+      margin:0px;
+      margin-bottom:73px;
+    }
+    .footer-block-1{
+      height:140px;
+      width:200px;
+      margin-right:218px;
+    }
+    #footer-strong{
+      font-family: Hellix;
+      font-size: 36px;
+      font-weight: 700;
+      line-height: 43px;
+      text-align: left;
+      width:180px;
+    }
+    .footer-block-2{
+      display:flex;
+      flex-direction:column;
+      justify-content:space-between;
+      height:102px;
+      width:67px;
+      margin-right:111px;
+      margin-top:10px;
+    }
+    #home{
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      text-align: left;
+      margin:0px;
+    }
+    #about{
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      text-align: left;
+      margin:0px;
+    }
+    #contact-two{
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      text-align: left;
+      margin:0px;
+    }
+    .footer-block-3{
+      display:flex;
+      flex-direction:column;
+      justify-content:space-between;
+      height:102px;
+      width:95px;
+      margin-right:210px;
+      margin-top:10px;
+    }
+    #training{
+      margin:0pc;
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      text-align: left;
+    }
+    #price{
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      text-align: left;
+      margin:0px;
+    }
+    #faq{
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      text-align: left;
+      margin:0px;
+    }
+    #update{
+      font-family: Hellix;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 28px;
+      text-align: left;
+      margin:0px;
+      margin-bottom:16px;
+    }
+    .social{
+      display:none;
+    }
+  }
