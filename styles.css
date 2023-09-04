@@ -31,7 +31,7 @@ html, body{
 }
 .head{
   height: 45px;
-  width: 180px;
+  width: 100%;
   color: #111235;
   font-family: Hellix;
   font-size: 36px;
