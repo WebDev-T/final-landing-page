@@ -31,7 +31,7 @@ html, body{
 }
 .head{
   height: 45px;
-  width: 100%;
+  width: 180px;
   color: #111235;
   font-family: Hellix;
   font-size: 36px;
@@ -50,7 +50,7 @@ html, body{
 #wo-image{
   display:flex;
   height: 414px;
-  width: 320px;
+  width: 303px;
   margin:0 auto;
   margin-bottom:40px;
 }
@@ -112,7 +112,7 @@ html, body{
 #wo-image-2{
   display:flex;
   height: 276.24px;
-  width: 414px;
+  width: 303px;
   margin:0 auto;
   margin-bottom:29.76px;
 }
@@ -167,10 +167,10 @@ html, body{
   line-height: 58px;
   text-align: center;
   max-height: 158px;
-  max-width: 399px;
+  max-width: 379px;
   margin-bottom:10px;
 }
-#xp{  
+#xp{
   font-family: Hellix;
   font-size: 18px;
   font-weight: 500;
@@ -204,7 +204,7 @@ html, body{
   justify-content:center;
   align-items:center;
   cursor:pointer;
-  margin-bottom:62px;
+  margin-bottom:1px;
 }
 .sign:hover{
   opacity:80%;
@@ -223,13 +223,13 @@ html, body{
 #wo-image-3{
   display:flex;
   height:441px;
-  margin:0 auto;
-  width:320px;
+  margin:0px auto 0px auto;
+  width:303px;
 }
 #wo-image-4{
-  display:flex;
+  display: flex;
   height:414px;
-  width:320px;
+  width:303px;
   margin:0 auto;
   margin-bottom:50px;
   padding-top:120px;
@@ -256,7 +256,7 @@ html, body{
 .box{
   background: #E4F0FF;
   height: 274px;
-  max-width:382px;
+  width:300px;
   border-radius: 30px;
   margin:0 auto;
   margin-bottom:20px;
@@ -282,11 +282,11 @@ html, body{
   text-align: left;
   margin-left:42px;
   height: 96px;
-  width: 286px;
+  max-width: 246px;
 }
 #increase-three{
   height: 58px;
-  width: 234px;
+  max-width: 234px;
   font-family: Hellix;
   font-size: 24px;
   font-weight: 700;
